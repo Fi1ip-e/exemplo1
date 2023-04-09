@@ -12,3 +12,5 @@ nota02 = float(input())
 resultado = nota01 + nota02 / 2
 print("A media do aluno é ", resultado)
 print("Fim")
+
+# branch dev01
